@@ -37,7 +37,7 @@ I’m a Flutter Developer
 |dart|[repo](https://github.com/Mohamed-Elrayes/ProblemSolving_Dart)|
 |c++|[repo](https://github.com/Mohamed-Elrayes/challange_c_plus_plus)|
 
-### My projects
+### My Frind projects
 |Kind|Apk|State_Manage..|Dart_v|Timestamp|Api|gitHub|
 |----|--------|--------|--------|-------------|-----|---|
 |ecommerce|ecommerce|provider|2.2.2|2019-2020|firebase|[github](https://github.com/Mohamed-Elrayes/shop_max)|
