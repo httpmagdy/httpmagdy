@@ -15,7 +15,7 @@ I’m a Flutter Developer
 |lang|framework|
 |:----|--------|
 |Dart❤|Flutter|
-|Java|android (basics)|
+|kotlin|android|
 |php|laravel|
 |c++|
 
