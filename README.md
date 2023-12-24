@@ -18,6 +18,7 @@ I’m a Flutter Developer
 |kotlin|android|
 |php|laravel|
 |c++|
+|Node.js|typescript|nest.js|
 
 </br></br></br></br> </br></br>
 
